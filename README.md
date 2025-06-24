@@ -48,36 +48,40 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 ![83naCaR](https://github.com/user-attachments/assets/49692345-ea6e-44dd-aa0b-5fef0df504d9)
 
-## 3️⃣ Extended Regex with egrep (or grep -E)
-🔹 Use alternation and grouping with extended regex
-
-🔹 Match lines with either apple or banana:
-
-🔹 Use parentheses and repetition:
-
-## 4️⃣ Using fgrep for Fixed Strings
+## 3️⃣Using fgrep for Fixed Strings
 🔹 Search without interpreting regex symbols
 
 🔹 Match literally "banana split" with fgrep:
 
 🔹 Try the same with grep and see the difference when using special characters.
 
-## 5️⃣ Text Substitution with sed
+![ctXF6Aa](https://github.com/user-attachments/assets/7dbaa6c6-bf42-4668-b31e-01044c82386f)
+
+## 4️⃣ Text Substitution with sed
 🔹 Replace, delete, or modify lines using sed with regex
 
 🔹 Replace "banana" with "mango":
 
+![oZh8nMQ](https://github.com/user-attachments/assets/7bfdcefd-ad25-4db9-9b62-5c7b073cd21e)
+
 🔹 Remove lines that start with "c":
+
+![ttJctJj](https://github.com/user-attachments/assets/3a480f60-2c98-40a9-8548-b205ae75a878)
 
 🔹 Replace all instances of vowels with "*":
 
-## 6️⃣ Combining Regex with File Search
+![RS4SbKj](https://github.com/user-attachments/assets/943d9a68-b7ba-45f9-836a-bf39afd31cce)
+
+## 5️⃣ Combining Regex with File Search
 🔹 Search for matching content within files across directories
 
 🔹 Create test files:
 
+![VADERuv](https://github.com/user-attachments/assets/5cdf033e-8312-4066-b906-14dff2fbaea1)
+
 🔹 Use grep -r to search for "error":
 
+![lDcwgRy](https://github.com/user-attachments/assets/1152a5f0-397d-464b-aab4-ea7c9a946514)
 
 ## 🧠 What I learned
 This lab helped me solidify the fundamentals of regular expressions in Linux. I learned the difference between basic and extended regex, and when to use tools like grep, egrep, or fgrep. I also practiced powerful substitution techniques with sed, which I can use to quickly process and transform text in real-world scenarios. 🚀
