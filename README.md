@@ -3,7 +3,15 @@
 ## ✅ What I did in this lab
 I worked through a series of tasks that helped me build regex patterns, apply them to search inside text files, and use different tools to manipulate text. Each task focuses on real-world scenarios that a Linux admin might encounter.
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
 
+[103.7 EXAM OBJECTIVE](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.7_Search_text_files_using_regular_expressions)
+
+[OBJ.103.7 NOTES]()
+
+[OBJ. 103.7 LAB]()
+
+---
 
 ## 1️⃣ Basic Pattern Matching with grep
 🔹 Understand simple regex patterns and search for them in files
