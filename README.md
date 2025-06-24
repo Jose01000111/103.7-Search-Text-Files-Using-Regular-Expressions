@@ -1,7 +1,9 @@
-# 🧪 LPIC-1 Lab: Search Text Files Using Regular Expressions (Objective 103.7)
+# 🧪 103.7 Search Text Files Using Regular Expressions 
 
 ## ✅ What I did in this lab
 I worked through a series of tasks that helped me build regex patterns, apply them to search inside text files, and use different tools to manipulate text. Each task focuses on real-world scenarios that a Linux admin might encounter.
+
+
 
 ## 1️⃣ Basic Pattern Matching with grep
 🔹 Understand simple regex patterns and search for them in files
