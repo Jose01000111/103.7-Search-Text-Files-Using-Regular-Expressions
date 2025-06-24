@@ -18,16 +18,27 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Create a test file:
 
+![dsF6U9c](https://github.com/user-attachments/assets/cf595f78-b599-4b8b-9882-146ae2796540)
+
 🔹 Search for exact match "banana":
+
+![drpjdfD](https://github.com/user-attachments/assets/3259d242-e1e6-44bc-b2d6-84eebd05e1fb)
 
 🔹 Search for lines starting with "c":
 
+![E0Rvjty](https://github.com/user-attachments/assets/46dbece5-ba37-441b-a052-b6ae771619e0)
+
 🔹 Search for lines ending in "t":
+
+![uYpH3PH](https://github.com/user-attachments/assets/754cba57-5386-4bde-9656-fb85fd45593a)
+
 
 ## 2️⃣ Using Character Classes and Special Characters
 🔹 Learn how to use ranges, wildcards, and escaped characters
 
 🔹 Match any word with vowels:
+
+![InclWef](https://github.com/user-attachments/assets/0714c311-6662-4b1a-9d2b-58a04983eb28)
 
 🔹 Match lines with any 6-character word:
 
