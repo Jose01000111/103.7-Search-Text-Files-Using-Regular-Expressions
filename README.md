@@ -42,7 +42,11 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 Match lines with any 6-character word:
 
+![i5jmQrR](https://github.com/user-attachments/assets/cbbad6c4-5e55-4ac7-a5f3-0b63a371648a)
+
 🔹 Escape special characters:
+
+![83naCaR](https://github.com/user-attachments/assets/49692345-ea6e-44dd-aa0b-5fef0df504d9)
 
 ## 3️⃣ Extended Regex with egrep (or grep -E)
 🔹 Use alternation and grouping with extended regex
