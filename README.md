@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [103.7 EXAM OBJECTIVE](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.7_Search_text_files_using_regular_expressions)
 
-[OBJ.103.7 NOTES]()
+[OBJ.103.7 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/ESeOmkdysSFIlKESAA7FQ04BTN4b_ZaW7k-BOHvlF6ZTVw?e=c2rILK)
 
-[OBJ. 103.7 LAB]()
+[OBJ. 103.7 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EQE2TROXcQFJpcRg11x6HS4BhDSoJBstqJiF0Gc6VpjxYA?e=7ehpZ9)
 
 ---
 
